@@ -8,7 +8,7 @@ A very simple game written in Python 3. The user opens the application and selec
 ![Rock,_Paper,_Scissors!664](https://user-images.githubusercontent.com/108898435/178105721-972aa97b-9ab9-4451-bfca-830aa8718a11.png) ![Rock,_Paper,_Scissors!665](https://user-images.githubusercontent.com/108898435/178105726-2568b143-7b6f-4af8-b9be-bfa083e17450.png)
 
 ## Installation
-Considering the simplicity of the game, there are no installation instructions. Simply copy/paste the code into a python 3 interpretor or download the executable file (depending on the version of the game)
+Considering the simplicity of the game, there are no installation instructions. Simply copy/paste the code into a python 3 interpretor. Required modules to run the GUI version of the game is PySimpleGUI only. 
 
 ## Usage
 ### Terminal Version:
@@ -17,7 +17,7 @@ Copy/paste the code into a python interpretor and run the file. The terminal wil
 
 ### GUI Version:
 
-Either copy/paste the code into a python interpretor and run the file (requires PySimpleGUI) or download the executable file and run the file. Press one of the buttons on the screen to play a game against the computer.
+Copy/paste the code into a python interpretor and run the file (requires PySimpleGUI). Press one of the buttons on the screen to play a game against the computer.
 
 ## Support
 
